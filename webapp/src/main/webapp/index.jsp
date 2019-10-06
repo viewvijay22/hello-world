@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> welcome to vj hotel !!! </h1>
+<h2> a brand in hotel industry </h2>
+<h3> Only guest forget rest</h3>
